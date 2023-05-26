@@ -1,11 +1,14 @@
-# AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://ai-collection.b-cdn.net/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection&text=Checkout this AI Collection of Awesome Generative AI Applications!&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/ai_collection_" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ai_collection_?style=social"></a>
+
+<div align="center">
+
+</div>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection&text=Checkout this AI Collection of Awesome Generative AI Application! @ai_collection_&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/ai_collection_" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ai_collection_?style=social"></a>
 
 ---
 
 <div align="center">
-    <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png" />
     <br />
     <i>THE GENERATIVE AI LANDSCAPE</i>
     <br />
@@ -20,10 +23,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=846" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=864" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=40" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -54,6 +57,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://tinyurl.com/ai-8fy" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/eightify_banner.png" alt="Eightify" border="0"/>
+    </a>
+    <h4>Eightify — Extract key insights from YouTube videos</h4>
+    <p>🏃‍♂️ Keep up with the rapid pace of AI & GPT, don't miss out! <br /> 🎙 Watch all those podcasts you added to backlog <br /> ⚡️ 10 seconds to get key insights and summary</p>
+    <a href="https://tinyurl.com/ai-8fy" target="_blank"><b>Get Started with Eightify</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1825.webp" alt="CodiumAI" border="0"/>
     </a>
@@ -66,26 +82,21 @@ Translations:
 <br>
 
 
+---
+
 <div align="center">
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
-    </a>
-    <h4>Stop Wasting Time Manually Creating Quizzes</h4>
-    <p>Create and share quiz questions, flashcards, and notes instantly, from any text. Ideal for businesses, educators, and students alike.</p>
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Get Started with Quizgecko</b></a>
-    <br />
+    <h5>Marketing resources</h5>
+    <p>Added your awesome app to our list? Great! now boost your marketing using these resources</p>
 </div>
 
-<br>
-
 
 <div align="center">
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/aibooster.png" alt="aibooster" border="0"/>
     </a>
-    <h4>AI-powered Teaching Assistant for Testing and Improving English Speaking Skills</h4>
-    <p>With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life</p>
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>Get Started with SmallTalk</b></a>
+    <h4>Boost your AI startup with organic traffic and an exclusive knowledge hub</h4>
+    <p>Get the list of 140+ premium directories to submit your AI start-up. Great source for backlinks & traffic</p>
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank"><b>Get it here</b></a>
     <br />
 </div>
 
@@ -126,6 +137,7 @@ Translations:
 - 🧞‍♂️ [Organization & Automation](#organization--automation)
 - 📸 [Photo & Image Editing](#photo--image-editing)
 - 🔌 [Plugins & Extensions](#plugins--extensions)
+- 🚀 [Productivity & Personal Growth](#productivity--personal-growth)
 - 🎓 [Research Assistant](#research-assistant)
 - 🗳 [Reviews & Recommendations](#reviews--recommendations)
 - 💰 [Sales & Marketing](#sales--marketing)
@@ -148,6 +160,9 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [FlowCog](https://flowcog.com?ref=aicollection) | SaaS Financial Projections Quick & Easy ⚡. | Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors. | :white_check_mark: |
+| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | AI-Powered Search Engine. | StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011. | :white_check_mark: |
+| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - AI Picked Stock News. | . | :white_check_mark: |
+| [Torto.ai](http://torto.ai?ref=aicollection) | Stock Market Made Simple. | . | :white_check_mark: |
 
 <!--End of Accounting & Finance 37-->
 
@@ -209,6 +224,7 @@ Translations:
 | [Bg Eraser](http://bgeraser.com?ref=aicollection) | Bg Eraser - Magic Eraser for Picture Clean Up. | Powerful AI Inpainting and Picture Clean Up technology. Remove unwanted objects and clean up pictures in seconds. | :grey_question: |
 | [CLIP STUDIO PAINT](http://www.clipstudio.net?ref=aicollection) | は、売上No.1＆利用率No.1*のイラスト、マンガ、アニメーション制作アプリ。みんな使ってるから、憧れの作風も再現できて、ノウハウもたくさん. | は、リアルで自然な描き味と充実の機能、驚くほど便利な素材が多数。世界中のユーザーがアップロードした10万点以上の素材をダウンロードすれば、ラクしてもっとクオリティの高い作品に。. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com?ref=aicollection) | Image to Cartoon. | Best AI cartoonizer online for free. | :white_check_mark: |
+| [CoverDesignAI](http://coverdesignai.com) | CoverDesignAI - A Tool to Create Tailored Book Cover Ideas/Prompts/Images/Mockups for Indie Authors and Designers. | CoverDesignAI is an AI-powered service offering a unique way for indie authors and designers to create the perfect book cover. | :white_check_mark: |
 | [DALL·E 2](https://openai.com/dall-e-2/?ref=aicollection) | Dall·E 2 Is a New AI System That Can Create Realistic Images and Art From a Description in Natural Language. | DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?ref=aicollection) | AI Portrait - Davinci Face Made by Mathema. | DaVinci Face is a software – based on the most innovative Artificial Intelligence techniques, in particular on GAN (Generative Adversarial Network) to create Leonardesque-style portraits. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?ref=aicollection) | Human AI Collaboration. | Create inspiring visual content in a collaboration with our AI enabled tools. | :white_check_mark: |
@@ -279,6 +295,7 @@ Translations:
 | [Zazow](http://www.zazow.com?ref=aicollection) | Zazow :: Algorithmic Generative Art. | Create your own artwork by using computer generated algorithms. Learn about generative or algorithmic art. | :grey_question: |
 | [Zoomscape](http://zoomscape.ai?ref=aicollection) | Zoomscape.Ai. | Create stunning Zoom backgrounds with AI. | :grey_question: |
 | [artssy](https://www.artssy.co/?ref=aicollection) | Create Unique AI Generated Images in 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!. | :x: |
+| [caspa AI](https://www.caspa.ai/?ref=aicollection) | Caspa AI Is a Platform to Create and Customise AI Images in Minutes. | Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications. | :grey_question: |
 | [flair](http://flair.ai/?ref=aicollection) | The AI Design Tool for Branded Content. | . | :white_check_mark: |
 
 <!--End of Art & Image Generator 15-->
@@ -332,6 +349,7 @@ Translations:
 | [BLOONY](http://bloony.ai?ref=aicollection) | Bloony - AI Chatbot. | Hop on ChatTrip!. | :grey_question: |
 | [BotGPT](https://t.me/BotGPT_bot?ref=aicollection) | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 | [Chai](http://chai.ml?ref=aicollection) | Chai - Chat With AI. | Chai is THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
+| [ChatBotKit](https://chatbotkit.com/?via=aicollection) | The Fastest Way to Build Advanced AI Chat Bots. | ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, Discord and WhatsApp. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | Apowerful Language Model for Text Generation and Understanding. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | Build an AI Chatbot Trained on Your Data. | Just upload a pdf and get a link to a GPT based chatbot that can answer any question on it. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | Context - AI-Powered Audio & Video Chatbots. | . | :grey_question: |
@@ -362,6 +380,7 @@ Translations:
 | [CodiumAI](http://www.codium.ai/?utm=aicollection) | Meaningful Tests for Busy Devs. | CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | AI Powered Webflow Code & Copy Tools for Designers. | If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | Get the Data You Need by Asking. | Build a data-led organisation with the power of AI. | :x: |
+| [DocuWriter.ai](https://www.docuwriter.ai) | ✨ the Ultimate AI for Code Documentation. | A powerful tool that automatically generates comprehensive and accurate documentation from source code files. | :white_check_mark: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | Explain by Whybug. | Let AI explain to you why your code is buggy and how to fix it. | :grey_question: |
 | [ExplainDev](http://explain.dev?ref=aicollection) | Explaindev - Code Explainer That Answers Your Questions in Context. | ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI. | :grey_question: |
 | [Ghostwriter](http://replit.com?ref=aicollection) | Replit: The Collaborative Browser Based Ide. | Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. | :grey_question: |
@@ -386,6 +405,7 @@ Translations:
 | [ArticleForge](https://www.articleforge.com/?ref=e99368) | High Quality, AI Content Generator - Article Forge. | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | Seo Content Optimization Software - Dashword. | Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic. | :x: |
 | [Contentedge](http://www.contentedge.com?ref=aicollection) | Advanced AI Content Generation & Seo Copywriting Software. | Skip the creative burnout and generate high-ranking content in as little as 15 seconds. | :white_check_mark: |
+| [CopyGen](https://copygen.pro/?ref=aicollection) | AI-Powered Content Writing Assistant. | Your go-to AI writing tool for creating high-quality, SEO-optimized content in seconds, without writer's block. | :x: |
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | Your AI-Powered Amazon Listing Optimization Expert. | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | Let the AI Create for You. | Creaitor will help you write content in a more powerful, emotionally expressive way. | :x: |
 | [Ctrify](http://www.ctrify.com?ref=aicollection) | First AI-Powered Seo Action Platform. | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. | :grey_question: |
@@ -403,10 +423,12 @@ Translations:
 | [Lek](http://lek.ai?ref=aicollection) | Lek.Ai - The Ultimate Content Creator Toolkit Powered by AI. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
 | [Lex](http://lex.page?ref=aicollection) | Unlock Your Best Writing. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans and Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
+| [Netus.ai](https://netus.ai/?utm_source=aff&utm_campaign=aicollection) | AI-Driven Bypasser, Paraphraser and Detector. | NetusAI is a powerful AI-driven technology designed to help content creators generate unique, high-quality content up to 10x faster than traditional methods. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI Writer and Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | Improve the Reading Experience on Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
 | [Taskade](http://www.taskade.com/?via=beth0) | Taskade - AI Outliner & Mind Map - AI Outlining and Mind Mapping for Teams. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
+| [TweetStorm.ai](https://www.tweetstorm.ai) | AI-Powered Tweet Generator. | Generate Tweets, Bios, Hashtags and Usernames using AI GPT4. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?ref=aicollection) | Typedroid - Free AI Text Generator. | . | :white_check_mark: |
 | [Typli](http://typli.ai?ref=aicollection) | Typli.Ai - AI Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
 | [Wizishop](http://wizishop.com?ref=aicollection) | Grow Your Business With Seo-Powered Ecommerce. | WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!. | :white_check_mark: |
@@ -509,6 +531,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Pokemon generator](http://nokemon.eloie.tech?ref=aicollection) | Generate Fakemon Using AI. | . | :grey_question: |
+| [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection) | AI Story Generator. | A free AI story generator that writes creative short stories for you on any topic. | :white_check_mark: |
 | [Ask RBG](http://ask-rbg.ai?ref=aicollection) | What Would RBG (Probably) Say?. | An AI experiment: Ask Justice Ruth Bader Ginsburg to make a decision about any question your heart desires. The first AI Drop from AI21 Labs. | :white_check_mark: |
 | [Askmybook](http://askmybook.com?ref=aicollection) | Ask My Book: The Minimalist Entrepreneur. | This is an experiment in using AI to make my book's content more accessible. Ask a question and AI'll answer it in real-time:. | :white_check_mark: |
 | [Blackink](http://blackink.ai?ref=aicollection) | Create Your Own Unique Flash Tattoo in Seconds. | Stop spending months searching Pinterest for your next tattoo. Generate custom, unique tattoos in seconds with BlackInk's AI, designed to create tattoo-like designs just for you. | :white_check_mark: |
@@ -560,6 +583,7 @@ Translations:
 | [GiftBot](http://www.getgift.help?ref=aicollection) | Get Gift Help. | Struggling to figure out what to get someone for the holidays? GiftBot asks you questions to help recommend gift ideas!. | :white_check_mark: |
 | [GiftWizard](https://www.giftwizard.ai?ref=aicollection) | GiftWizard.ai - AI Powered Gift Inspiration. | GiftWizard is your friendly helper from the future, here to guide you through getting the most magical gift. | :white_check_mark: |
 | [Giftastic AI](http://giftastic.ai?ref=aicollection) | Giftastic.Ai - Perfect Gift for Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
+| [Kindred Tales](https://kindredtales.net/?ref=aicollection) | Online Platform That Helps People Capture and Preserve Their Life Stories in a Beautiful Hardcover Book. | For anyone who wants to create a memoir but doesn't know where to start or has difficulty writing. With the help of AI, users can easily answer questions about their life, and we'll turn it into a professionally designed book that they can cherish for generations to come. | :x: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI. | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :x: |
 | [Text2present](http://text2present.com?ref=aicollection) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
 
@@ -590,6 +614,7 @@ Translations:
 | [JD Generator](http://hirequotient.com?ref=aicollection) | Meet the Team - Hirequotient. | HireQuotients Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time. | :grey_question: |
 | [LazyApply](http://lazyapply.com?ref=aicollection) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Improve Your Resume and Linkedin Profile. | Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers. | :white_check_mark: |
+| [Uniglobal Careers](https://uniglobalcareers.com/cv-generator) | Unlock the World of International Education With UniGlobal Careers – Your Superhero Powers Deserve a Global Stage! 💪🌎. | Introducing UniGlobal CV and Cover Letter Generator, the AI-powered super-tool for job seekers in the international education realm! UniGlobal Careers harnesses cutting-edge AI to empower you with captivating CVs and cover letters tailored for international opportunities. 🌍✨. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | AI for Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
 | [resumator](https://www.resumator.ai/?ref=aicollection) | Looking for a Job? We've Got You Covered. | Get hired faster with our AI-powered personalized cover letter. It takes just a few seconds!. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
@@ -643,6 +668,7 @@ Translations:
 | [Replica](http://replicastudios.com?ref=aicollection) | Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica. | Try today with 30 minutes of free voice credit. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | Riffusion. | Stable diffusion for real-time music generation. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com?ref=aicollection) | Next-Gen Music-Making Tool With a Suite of AI Superpowers. | Helps you generate melody, beats, or even a whole song while still being able to edit them like any other professional DAW. | :white_check_mark: |
 
 <!--End of Music & Audio Generation 18-->
 
@@ -660,8 +686,8 @@ Translations:
 | [Nekton.ai](https://nekton.ai/?ref=aicollection) | Automate Your Workflows With AI. | Automate the routine processes for yourself and your team without needing to code or maintain infrastructure. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
+| [guidde](https://www.guidde.com/?ref=aicollection) | Magically Create Stunning Training Meterial, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI. | guidde is the generative AI platform for business that helps your team create video documentation 11x faster. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
-| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
 
 <!--End of Organization & Automation 31-->
 
@@ -679,6 +705,7 @@ Translations:
 | [Colorize](http://colorize.cc?ref=aicollection) | Colorize Photo Online. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai?ref=aicollection) | Extendimageai - Extend Your Images With Generative AI. | ExtendImageAI is a tool that allows you to extend your images with generative AI. | :grey_question: |
 | [Hama](http://www.hama.app?ref=aicollection) | Hama. | Amazing photo eraser. | :grey_question: |
+| [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection) | Unblur Images and Say Goodbye to Low-Quality Photos. | HitPaw Online AI Photo Enhancer uses advanced AI technology to remove noise, sharpen details and improve photo quality. | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com?ref=aicollection) | Smart PNG / JPG Image Upscaler. | Upscale and enhance your image by using the latest AI technology. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com?ref=aicollection) | Magic Studio - Powered by Ai, Created by You. | Magic Studio helps you automatically edit and create images, using AI. | :grey_question: |
 | [Palette](http://palette.fm?ref=aicollection) | Palette - Colorize Photos. | A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram. | :white_check_mark: |
@@ -709,9 +736,20 @@ Translations:
 | [Autoname](http://www.autoname.org?ref=aicollection) | Rename All Your Layers in One Click. Thanks to Ai. Open Source. | Rename Figma frames in one click, that's pretty much it. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | Merlin. | Free Open AIs ChatGPT powered extension to use anywhere!. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | Splashai Is a Figma Plugin, Search Engine and AI Image Generator. | . | :grey_question: |
-| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant for Supercharged Productivity. | Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place. | :white_check_mark: |
 
 <!--End of Plugins & Extensions 28-->
+
+<!--lint ignore double-link-->
+**[⬆ Back to Index](#index)**
+
+## Productivity & Personal Growth
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Chivvy](https://chivvy.app?ref=aicollection) | AI Powered Anti-Procrastination App. | Chivvy uses negative reinforcement to get you to do things. Creates accountability on social media. Keeps you on track with smart prompts. All powered by AI. | :white_check_mark: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant for Supercharged Productivity. | Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place. | :white_check_mark: |
+| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
+
+<!--End of Productivity & Personal Growth 40-->
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
@@ -773,8 +811,8 @@ Translations:
 | [OpenArt Photo Booth](http://openart.ai?ref=aicollection) | Discover and Generate AI Art - Openart. | Search 10M+ prompts, and generate AI Art via Stable Diffusion, DALL·E 2. | :white_check_mark: |
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI Is an Answer Engine That Delivers Accurate Answers to Complex Questions Using Large Language Models. | Ask is powered by large language models and search engines. Accuracy is limited by search results and AI capabilities. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | Free Creative Domain Name Search by AI Robots. | Finding a creative and unique domain that is still available is easy with SmartyNames.com - Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click. | :white_check_mark: |
-| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | AI-Powered Search Engine. | StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | The AI Search Engine You Control. | . | :white_check_mark: |
+| [namefinder.ai](https://namefinder.ai/?ref=aicollection) | AI-Powered Business & Domain Name Generator. | We, at Namefinder, aim to save people time by coming up with domain names for their businesses. We do it by proposing the names based on their website needs, and before that we check the domain registry to only give the available domain names to choose from. All powered by Chat Gpt. | :white_check_mark: |
 
 <!--End of Search Engines 30-->
 
@@ -786,6 +824,7 @@ Translations:
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/?ref=aicollection) | Chatbcg: Generative AI for Slides. | Instantly create slide decks using ChatBCG. | :grey_question: |
 | [Glimmer AI](https://glimmerai.tech?ref=aicollection) | AI-Powered Presentation Magic. | Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands. | :white_check_mark: |
+| [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides?ref=aicollection) | Create AI-powered Presentations in Google Slides. | Build presentations in minutes with Plus AI. Starting with a blank deck is one of the most challenging parts of building a presentation. Plus AI helps you create an outline, build a first draft, and suggest additional edits to your slides. | :white_check_mark: |
 | [STORYD](https://www.storyd.ai?ref=aicollection) | Data Presentations Leaders Love. | Helps professionals quickly and easily create data-driven business presentations. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
@@ -834,7 +873,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
-| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
+| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | ChatGPT Writer Chrome Extension. | Write emails & messages, fix grammar mistakes, rephrase text, change writing tone, summarize text, and much more using ChatGPT AI. Works on all sites. Free to use. | :white_check_mark: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | Welcome to Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com?ref=aicollection) | Cover Letter AI. | The ultimate tool for crafting the perfect cover letter. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com?ref=aicollection) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
@@ -956,11 +995,12 @@ Translations:
 | [Boolpic](http://boolv.tech?ref=aicollection) | An Intelligent Video Platform That Empowers Brands. | Generate on-brand videos 10X faster with AI to boost marketing performance. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/?ref=aicollection) | Future-Facing Generative AI. | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. | :white_check_mark: |
 | [Deepfakesweb](http://deepfakesweb.com?ref=aicollection) | Make Your Own Deepfakes. | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today. | :grey_question: |
-| [Eightify](https://eightify.app/?ref=aicollection) | Get 8 Key Ideas From YouTube Videos. | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages. | :white_check_mark: |
+| [Eightify](https://tinyurl.com/ai-8fy) | Eightify — Extract key insights from YouTube videos. | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages. | :white_check_mark: |
 | [Elai](http://elai.io?ref=aicollection) | Create AI Videos From Just Text. | Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | Filmforge AI. | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Turn Text Into Videos With AI Voices. | Create videos from scripts or blog posts using realistic voices in 2 minutes!. | :white_check_mark: |
 | [Gling](http://www.gling.ai?ref=aicollection) | Creator, Get Your Time Back. | Our AI will cut silences and bad takes for you so you can focus on your YouTube videos. | :grey_question: |
+| [HitPaw Online Video Enhancer](https://online.hitpaw.com/online-video-enhancer.html?ref=aicollection) | One-Click to Unblur and Upscale Your Video by Trained AI. | HitPaw Online Video Enhancer is the best solution for low resolution videos, increase video solution up to 1080P/4K with no efforts. | :x: |
 | [Move](https://www.move.ai/?ref=aicollection) | Move AI. | Capture high quality motion data from video in any environment using mobile phones. | :grey_question: |
 | [Pictory](http://pictory.ai?ref=milana31) | Video Creation Made Easy. | Automatically create short, highly-sharable branded videos from your long form content. | :grey_question: |
 | [Simplified](http://simplified.com?ref=aicollection) | Simplified: An Easy to Use All-in-One App for Modern Marketing Teams. | Design, Write, Edit videos, and Publish Content. Built For Teams. | :grey_question: |
@@ -986,7 +1026,8 @@ Translations:
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - Your AI Design Companion. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
-| [Uizard](http://uizard.io?ref=aicollection) | Uizard - App, Web, & Ui Design Made Easy - Powered by AI. | . | :grey_question: |
+| [Stunning.so](https://stunning.so/?ref=aicollection) | Build Websites With AI. | Build stunning websites in 30 seconds including copy & even images powered by AI. | :white_check_mark: |
+| [Uizard](https://get.uizard.io/SH7) | Uizard - App, Web, & Ui Design Made Easy - Powered by AI. | Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!. | :white_check_mark: |
 
 <!--End of Web Design 39-->
 
@@ -1005,6 +1046,7 @@ Translations:
 | [Elephas](https://gumroad.com/a/411783379/ntmtp) | Elephas - Personal AI Writing Assistant for Mac, Iphone, Ipad. | Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar?ref=aicollection) | Essaybar — Revolutionize Your Writing With AI-Crafted Essays!. | . | :grey_question: |
 | [FreewriteAI](http://freewriterai.com?ref=aicollection) | The AI Writing Tool for Everyone. | . | :white_check_mark: |
+| [Instascribe](https://instascribe.app/) | Instascribe Is an AI-powered App That Creates Personalised Captions for Your Instagram Photos. | Just select an image, pick from an array of caption styles or define your own, and adjust options such as tone of voice, language, and message length. The app's AI then generates a unique caption that suits your image and preferences, streamlining your social media posting process. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?ref=aicollection) | Paragraphai • Best AI Writing App • Free AI Writing Assistant Tool. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?ref=aicollection) | Free Paraphrasing for All Languages. | . | :white_check_mark: |
 | [Paraphraser AI](http://app.yaara.ai?ref=aicollection) | Yaara — AI-Powered Writing Assistant. | . | :grey_question: |
@@ -1250,7 +1292,6 @@ Translations:
 | [Splash](http://www.splashmusic.com?ref=aicollection) | Splash - Bringing the Joy of Music Making to Everyone. | . | :grey_question: |
 | [Stabledojo](http://www.stabledojo.com?ref=aicollection) | Stabledojo. | . | :grey_question: |
 | [Steve AI](http://www.steve.ai?ref=aicollection) | Steve.Ai - Worlds Fastest Way to Create Videos. | With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video. | :grey_question: |
-| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - AI Picked Stock News. | . | :grey_question: |
 | [StoriesbyAI](http://storiesby.ai?ref=aicollection) | Stories by AI - Substack. | . | :grey_question: |
 | [Storya](http://www.storya.app?ref=aicollection) | Storya - AI Publishing for Everyone. | . | :grey_question: |
 | [Studio Design](http://studio.design?ref=aicollection) | Studio, an AI-Augmented Design Tool. | . | :grey_question: |
@@ -1279,7 +1320,6 @@ Translations:
 | [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com?ref=aicollection) | This Campsite Does Not Exist. | AI generated campsites featuring stunning locations, tents, and weather all created by AI using stable diffusion. | :grey_question: |
 | [Thumbsnap](http://art.thumbsnap.com?ref=aicollection) | AI Art Generator! Powered by Stable Diffusion - Thumbsnap - Free Photo & Video Hosting. | ThumbSnap: Free Photo and Video Sharing. | :white_check_mark: |
 | [Titan](http://www.compliancequarter.com.au?ref=aicollection) | Expert Compliance Systems and Resources - Compliance Quarter. | Regulatory compliance management system and expertise for energy, financial services and other regulated industries. We offer expert systems and services to take regulatory burden off your shoulders. | :grey_question: |
-| [Torto.ai](http://torto.ai?ref=aicollection) | Stock Market Made Simple. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai?ref=aicollection) | . | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun?ref=aicollection) | Tunes for Tales. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me?ref=aicollection) | Learn Anything. | . | :grey_question: |
